@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">160dp</item>
+        <item name="android:text">@string/main_title</item>
+        <item name="android:textSize">30dp</item>
+    </style>
+
+    <style name="button_layout" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+
+    <style name="button_layout.textButton">
+        <item name="android:text">@string/btn_normtext</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:drawableLeft">@drawable/ic_menu_copy_holo_light</item>
+        <item name="android:layout_below">@id/main_textView</item>
+
+    </style>
+
+    <style name="button_layout.htmlButton">
+        <item name="android:text">@string/btn_httptext</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:drawableLeft">@drawable/stat_sys_ra_signal_0_cdma</item>
+        <item name="android:layout_below">@id/btn_normtext</item>
+    </style>
+
+    <style name="button_layout.startButton">
+        <item name="android:text">@string/btn_start</item>
+        <item name="android:drawableLeft">@drawable/ic_media_play</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+    <style name="list_activity_theme" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

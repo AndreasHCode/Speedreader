@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Speedreader</string>
+    <string name="btn_normtext">Text from Database</string>
+    <string name="btn_httptext">Text from Internet</string>
+    <string name="btn_start">Start Reading</string>
+    <string name="main_label">Seminar</string>
+    <string name="main_title">Speedreader</string>
+    <string name="reader_textview">Here is the Text you read</string>
+
+    <string name="text_Dostojewski">So lag er sehr lange. Gelegentlich wachte er halb auf, und dann bemerkte er, daß es bereits tiefe Nacht war; aber er dachte nicht daran, aufzustehen. Schließlich sah er, daß der Tag heraufzog. Er lag rücklings auf dem Diwan, noch erstarrt in dem früheren Dämmerzustand.
+        Schrill klangen furchtbare,verzweifelte Schreie von der Straße zu ihm herauf, wie er sie übrigens jede Nacht gegen drei Uhr unter seinem Fenster hörte. Sie hatten ihn auch jetzt geweckt. Ah! Jetzt kommen die Betrunkenen aus den Kneipen, dachte er. Es ist drei Uhr!– und plötzlich sprang er auf, als ob ihn jemand vom Diwan gerissen hätte.
+        Wie! Schon drei! Er setzte sich wieder, und jetzt erinnerte er sich an alles. Plötzlich, im Augenblick fiel ihm alles wieder ein! In der ersten Sekunde dachte er, er müsse verrückt werden. Ein furchtbarer Kälteschauer überlief ihn, aber diese Kälte rührte nur von dem Fieber her, das ihn schon befallen hatte, während er schlief.
+        Ein solcher Schüttelfrost hatte ihn gepackt, daß ihm die Zähne klapperten und sich ihm alles nur so drehte. Er öffnete die Tür und lauschte: das ganze Haus lag in tiefem Schlaf.Voll Staunen betrachtete er sich selbst und alles ringsum in seinem Zimmer. Ihm war es unfaßlich, daß er gestern beim Heimkommen den Riegel nicht vor die Tür gelegt
+        und sich nicht nur in seinen Kleidern, sondern sogar mit dem Hut auf dem Kopf aufs Lager geworfen hatte – der Hut war heruntergefallen und lag auf dem Boden, neben dem Kissen. Wenn jemand hereingekommen wäre, was hätte er sich denken müssen? Daß ich betrunken bin; aber ... Er eilte zum Fenster. Es war genügend hell,
+        und er begann sich rasch zu mustern, von Kopf bis Fuß, alle seine Kleidungsstücke, ob nicht noch irgendwelche Spuren daran seien.Aber auf diese Weise war nichts zu sehen; zitternd vor Schüttelfrost zog er sich ganz aus und blickte sich wieder im Kreise um. Er wendete die Sachen hin und her, untersuchte sie bis zum letzten Faden und Flicken,
+        und da er sich selber nicht traute, wiederholte er diese Besichtigung noch dreimal. Doch er fand nichts;
+    </string>
+    <string name="text_Braid">
+        Chapter 2: Time and Forgiveness
+        Tim is off on a search to rescue the Princess. She has been snatched by a horrible and evil monster. This happened because Tim made a mistake.
+        Not just one. He made many mistakes during the time they spent together, all those years ago. Memories of their relationship have become muddled, replaced wholesale, but one remains clear: the princess turning sharply away, her braid lashing at him with contempt.
+        He knows she tried to be forgiving, but who can just shrug away a guilty lie, a stab in the back? Such a mistake will change a relationship irreversibly, even if we have learned from the mistake and would never repeat it. The princess\'s eyes grew narrower. She became more distant.
+        Our world, with its rules of causality, has trained us to be miserly with forgiveness. By forgiving them too readily, we can be badly hurt. But if we\'ve learned from a mistake and became better for it, shouldn\'t we be rewarded for the learning, rather than punished for the mistake?
+        What if our world worked differently? Suppose we could tell her: \'I didn\'t mean what I just said,\' and she would say: \'It\'s okay, I understand,\' and she would not turn away, and life would really proceed as though we had never said that thing? We could remove the damage but still be wiser for the experience.
+        Tim and the Princess lounge in the castle garden, laughing together, giving names to the colorful birds. Their mistakes are hidden from each other, tucked away between the folds of time, safe.
+
+        Chapter 3: Time and Mystery
+        All those years ago, Time had left the Princess behind. He had kissed her on the neck, picked up his travel bag, and walked out the door. He regrets this, to a degree. Now he\'s journeying to find her again, to show her knows how sad it was, but also to tell her how good it was.
+        For a long time, he thought they had been cultivating the perfect relationship. He had been fiercely protective, reversing all his mistakes so they would not touch her. Likewise, keeping a tight rein on her own mistakes, she always pleased him.
+        But to be fully couched within the comfort of a friend is a mode of existence with severe implications. To please you perfectly, she must understand you perfectly. Thus you cannot defy her expectations or escape her reach. Her benevolence has circumscribed you, and your life\'s achievements will not reach beyond the map she has drawn.
+        Tim needed to be non-manipulable. He needed a hope of transcendence. He needed, sometimes, to be immune to the Princess\'s caring touch.
+        Off in the distance, Tim saw a castle where the flags flutter even when the wind has expired, and the bread in the kitchen is always warm. A little bit of magic.
+
+        Chapter 4: Time and Place
+        Visiting his home for a holiday meal, Tim felt as though he had regressed to those long-ago years when he lived under their roof, oppressed by their insistence on upholding strange values which, to him, were meaningless. Back then, bickering would erupt over drops of gravy spilt onto the tablecloth.
+        Escaping, Tim walked in the cool air toward the university he\'d attended after moving out of his parent\'s home. As he distanced himself from that troubling house, he felt the embarrassment of childhood fading into the past. But now he stepped into all the insecurities he\'d felt at the university, all the panic of walking a social tightrope.
+        Tim only felt relieved after the whole visit was over, sitting back home in the present, steeped in contrast he saw how he\'d improved so much from those old days. This improvement, day by day, takes him ever-closer to finding the Princess. If she exists - she must! - she will transform him, and everyone.
+        He felt on his trip that every place stirs up an emotion, and every emotion invokes a memory: a time and location. So couldn\'t he find the Princess now, tonight, just by wandering from place to place and noticing how he feels? A trail of feelings, of awe and inspiration, should lead him to that castle in the future her arms enclosing him, her scent fills him with excitement, creates a moment so strong he can remember it in the past.
+        Immediately Tim walked out his door, the next morning, toward whatever the new day held. He felt something like optimism.
+    </string>
+    <string name="max_speed">Maximum Speed</string>
+    <string name="min_speed">Starting Speed</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="_250">250</string>
+    <string name="_300">300</string>
+    <string name="_350">350</string>
+    <string name="_400">400</string>
+    <string name="_450">450</string>
+    <string name="_600">600</string>
+    <string name="_60">60</string>
+    <string name="_90">90</string>
+    <string name="_120">120</string>
+</resources>

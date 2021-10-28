@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="de.uni_bamberg.mi.sem.speedreader.MainActivity">
+
+    <TextView
+        android:id="@+id/main_textView"
+        style="@style/textViewStyle"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/btn_normtext"
+        style="@style/button_layout.textButton" />
+
+    <Button
+        android:id="@+id/btn_httptext"
+        style="@style/button_layout.htmlButton" />
+
+    <TextView
+        android:id="@+id/main_selectedTitle"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_below="@id/btn_httptext"
+        android:gravity="center"
+        android:text="No selection"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/btn_start"
+        style="@style/button_layout.startButton" />
+
+
+</RelativeLayout>

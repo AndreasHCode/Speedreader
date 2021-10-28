@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_menu_max"
+        android:title="@string/max_speed">
+        <menu>
+            <item
+                android:id="@+id/menu_max_150"
+                android:title="@string/_150" />
+            <item
+                android:id="@+id/menu_max_200"
+                android:title="@string/_200" />
+            <item
+                android:id="@+id/menu_max_250"
+                android:title="@string/_250" />
+            <item
+                android:id="@+id/menu_max_300"
+                android:title="@string/_300" />
+            <item
+                android:id="@+id/menu_max_350"
+                android:title="@string/_350" />
+            <item
+                android:id="@+id/menu_max_400"
+                android:title="@string/_400" />
+            <item
+                android:id="@+id/menu_max_450"
+                android:title="@string/_450" />
+            <item
+                android:id="@+id/menu_max_600"
+                android:title="@string/_600" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/main_menu_min"
+        android:title="@string/min_speed">
+        <menu>
+            <item
+                android:id="@+id/menu_min_60"
+                android:title="@string/_60" />
+            <item
+                android:id="@+id/menu_min_90"
+                android:title="@string/_90" />
+            <item
+                android:id="@+id/menu_min_120"
+                android:title="@string/_120" />
+        </menu>
+    </item>
+
+</menu>
